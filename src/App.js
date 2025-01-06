@@ -34,7 +34,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Screen Size Input</h1>
+      <h1>Screen Size (16:9)</h1>
       <label>
         Enter screen size (in inches):
         <input
